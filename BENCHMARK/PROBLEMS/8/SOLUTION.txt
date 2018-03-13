@@ -1,0 +1,15 @@
+We synthesized!
+(OOO) is a starting material
+(OOO).([#6]S[#6]).[#6]C([#6])C=CC([#6])[#6]>>[#6]C([#6])C=O via Ozonolysis_with_reductive_workup.smarts
+([#6]S[#6]) is a starting material
+ClP(Cl)(Cl)=O is a starting material
+ClP(Cl)(Cl)=O.[#6]C([#6])C([#7])=O>>[#6]C([#6])C#N via Dehydration_of_amide_to_nitrile.smarts
+ClS(Cl)=O is a starting material
+ClS(Cl)=O.[#6]C([#6])C(O)=O>>[#6]C([#6])C(Cl)=O via Acid_chlorides_from_carboxylic_acids.smarts
+O[Cr](=O)(=O)O[Cr](O)(=O)=O is a starting material
+O[Cr](=O)(=O)O[Cr](O)(=O)=O.[#6]C([#6])C=O.[#8]>>[#6]C([#6])C(O)=O via Oxidation_of_aldehydes_to_carboxylic_acids.smarts
+[#6]C([#6])C#N is the goal
+[#6]C([#6])C(Cl)=O.[#7]>>[#6]C([#6])C([#7])=O via Primary_amide_from_acid_chloride.smarts
+[#6]C([#6])C=CC([#6])[#6] is a starting material
+[#7] is a starting material
+[#8] is a starting material

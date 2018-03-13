@@ -1,0 +1,12 @@
+We synthesized!
+ClC1=CC=C(C=C1)S(Cl)(=O)=O is a starting material
+ClC1=CC=C(C=C1)S(Cl)(=O)=O.[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](CO)OC([#6])([#6])O1>>[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](COS(=O)(=O)C2=CC=C(Cl)C=C2)OC([#6])([#6])O1 via Alcohol_to_4-chlorobenzene_sulfonate.mrv
+[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](CC#N)OC([#6])([#6])O1>>[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](CC[#7])OC([#6])([#6])O1 via Nitrile_reduction_to_amine.smarts
+[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](CC[#7])OC([#6])([#6])O1.[#6]C([#6])C(=O)C(C(C(=O)C1=CC=C(F)C=C1)C1=CC=CC=C1)C(=O)NC1=CC=CC=C1>>[#6]C([#6])C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H]1C[C@H](CC(=O)OC([#6])([#6])[#6])OC([#6])([#6])O1)C1=CC=C(F)C=C1)C1=CC=CC=C1 via Paal_Knorr_pyrrole_synthesis_0.mrv
+[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](CO)OC([#6])([#6])O1 is a starting material
+[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](COS(=O)(=O)C2=CC=C(Cl)C=C2)OC([#6])([#6])O1.[Na]C#N>>[#6]C([#6])([#6])OC(=O)C[C@H]1C[C@@H](CC#N)OC([#6])([#6])O1 via Cyanide_displacement_of_halo-benzesulfonates.mrv
+[#6]C([#6])C(=O)C(=C\C1=CC=CC=C1)\C(=O)NC1=CC=CC=C1 is a starting material
+[#6]C([#6])C(=O)C(=C\C1=CC=CC=C1)\C(=O)NC1=CC=CC=C1.[H]C(=O)C1=CC=C(F)C=C1>>[#6]C([#6])C(=O)C(C(C(=O)C1=CC=C(F)C=C1)C1=CC=CC=C1)C(=O)NC1=CC=CC=C1 via Stetter_gamma_ketone_synthesis.mrv
+[#6]C([#6])C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H]1C[C@H](CC(=O)OC([#6])([#6])[#6])OC([#6])([#6])O1)C1=CC=C(F)C=C1)C1=CC=CC=C1 is the goal
+[H]C(=O)C1=CC=C(F)C=C1 is a starting material
+[Na]C#N is a starting material

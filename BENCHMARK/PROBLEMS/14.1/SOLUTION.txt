@@ -1,0 +1,14 @@
+We synthesized!
+O[Na] is a starting material
+O[Na].[#6]C([#6])=O.[#6]C([#6])=O>>[#6]C([#6])=CC([#6])=O via Aldol_condensation_with_ketone_and_base.smarts
+[#6]C([#6])=CC([#6])=O.[H][H]>>[#6]C([#6])CC([#6])=O via Palladium_catalyst_hydrogenation_of_alkene.smarts
+[#6]C([#6])CC([#6])=O.[Li+][#13;v4-]>>[#6]C([#6])CC([#6])O via LiAlH4_reduction_of_ketone.smarts
+[#6]C([#6])CC([#6])O is the goal
+[#6]C([#6])O is a starting material
+[#6]C([#6])O is a starting material
+[#6]C([#6])O.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]C([#6])=O via Oxidation_of_alcohols_with_PCC.smarts
+[#6]C([#6])O.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]C([#6])=O via Oxidation_of_alcohols_with_PCC.smarts
+[H][H] is a starting material
+[Li+][#13;v4-] is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material

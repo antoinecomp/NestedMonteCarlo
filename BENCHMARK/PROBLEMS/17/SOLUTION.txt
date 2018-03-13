@@ -1,0 +1,14 @@
+We synthesized!
+O=C1CCCCC1.O[Na].[#6]CC=O>>[#6]CC=C1CCCCC1=O via Aldol_condensation_with_ketone_and_base.smarts
+OC1CCCCC1 is a starting material
+OC1CCCCC1.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>O=C1CCCCC1 via Oxidation_of_alcohols_with_PCC.smarts
+O[Na] is a starting material
+[#6]C([#6])=O.[#6]CC=C1CCCCC1=O>>[#6]CC(CC([#6])=O)C1CCCCC1=O via Michael_addition_with_ketone.smarts
+[#6]C([#6])O is a starting material
+[#6]C([#6])O.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]C([#6])=O via Oxidation_of_alcohols_with_PCC.smarts
+[#6]CC(CC([#6])=O)C1CCCCC1=O is the goal
+[#6]CCO is a starting material
+[#6]CCO.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]CC=O via Oxidation_of_alcohols_with_PCC.smarts
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material

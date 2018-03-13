@@ -1,0 +1,32 @@
+We synthesized!
+BrBr is a starting material
+BrBr is a starting material
+BrBr.Br[Fe](Br)Br.[#7]C1=C(Br)C=C(Br)C=C1>>[#7]C1=C(Br)C=C(Br)C=C1Br via Bromination_of_benzene.smarts
+BrBr.Br[Fe](Br)Br.[#7]C1=CC=CC=C1>>[#7]C1=C(Br)C=C(Br)C=C1 via Bromination_of_benzene.smarts
+BrC1=CC(Br)=C(C#N)C(Br)=C1.OS(O)(=O)=O.[#8]>>OC(=O)C1=C(Br)C=C(Br)C=C1Br via Hydrolysis_of_nitriles.smarts
+BrC1=CC(Br)=C([N+]#N)C(Br)=C1.OS(O)(=O)=O.[Na]C#N>>BrC1=CC(Br)=C(C#N)C(Br)=C1 via Dediazoniation_to_nitrile.smarts
+BrP(Br)Br is a starting material
+BrP(Br)Br.[#6]CO>>[#6]CBr via Alkyl_bromide_with_PBr3.smarts
+Br[Fe](Br)Br is a starting material
+Br[Fe](Br)Br is a starting material
+C1=CC=CC=C1 is a starting material
+C1=CC=CC=C1.OS(O)(=O)=O.O[N+]([O-])=O>>[O-][N+](=O)C1=CC=CC=C1 via Aromatic_nitration.smarts
+ClC(=O)C1=C(Br)C=C(Br)C=C1Br.[#6]CC[#7]>>[#6]CCNC(=O)C1=C(Br)C=C(Br)C=C1Br via Amine_addition_to_acid_chloride.smarts
+ClS(Cl)=O is a starting material
+ClS(Cl)=O.OC(=O)C1=C(Br)C=C(Br)C=C1Br>>ClC(=O)C1=C(Br)C=C(Br)C=C1Br via Acid_chlorides_from_carboxylic_acids.smarts
+Cl[H] is a starting material
+Cl[H].[#7]C1=C(Br)C=C(Br)C=C1Br.[O-][N+]([Na+])=O>>BrC1=CC(Br)=C([N+]#N)C(Br)=C1 via Diazotization.smarts
+OS(O)(=O)=O is a starting material
+OS(O)(=O)=O is a starting material
+OS(O)(=O)=O is a starting material
+O[N+]([O-])=O is a starting material
+[#6]CBr.[Na]C#N>>[#6]CC#N via Cyanide_formation_from_alkyl_bromide.smarts
+[#6]CC#N>>[#6]CC[#7] via Nitrile_reduction_to_amine.smarts
+[#6]CCNC(=O)C1=C(Br)C=C(Br)C=C1Br is the goal
+[#6]CO is a starting material
+[#8] is a starting material
+[H][H] is a starting material
+[H][H].[O-][N+](=O)C1=CC=CC=C1>>[#7]C1=CC=CC=C1 via Catalytic_hydrogenation_of_nitro_group.smarts
+[Na]C#N is a starting material
+[Na]C#N is a starting material
+[O-][N+]([Na+])=O is a starting material

@@ -1,0 +1,15 @@
+We synthesized!
+BrP(Br)Br is a starting material
+BrP(Br)Br.[#6]O>>[#6]Br via Alkyl_bromide_with_PBr3.smarts
+[#6]-[#7].[#6]CC=O>>[#6]CC=N[#6] via Imine_formation.smarts
+[#6]Br.[#7]-[#7].[K+]N1C(=O)C2=CC=CC=C2C1=O>>[#6]-[#7] via Gabriel_synthesis_from_alkyl_bromide.smarts
+[#6]CC=N[#6].[#8].[Li+][#13;v4-]>>[#6]CCN[#6] via Imine_reduction_to_amine.smarts
+[#6]CCN[#6] is the goal
+[#6]CCO is a starting material
+[#6]CCO.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]CC=O via Oxidation_of_alcohols_with_PCC.smarts
+[#6]O is a starting material
+[#7]-[#7] is a starting material
+[#8] is a starting material
+[K+]N1C(=O)C2=CC=CC=C2C1=O is a starting material
+[Li+][#13;v4-] is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material

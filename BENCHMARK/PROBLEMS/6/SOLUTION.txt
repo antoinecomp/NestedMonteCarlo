@@ -1,0 +1,17 @@
+We synthesized!
+BrP(Br)Br is a starting material
+BrP(Br)Br is a starting material
+BrP(Br)Br.[#6]CCO>>[#6]CCBr via Alkyl_bromide_with_PBr3.smarts
+BrP(Br)Br.[#6]CO>>[#6]CBr via Alkyl_bromide_with_PBr3.smarts
+C=O is a starting material
+C=O.[#6]C[Mg]Br>>[#6]CCO via Grignard_addition_to_carbonyl.smarts
+ClS(Cl)=O is a starting material
+ClS(Cl)=O.[#6]CCC(O)=O>>[#6]CCC(Cl)=O via Acid_chlorides_from_carboxylic_acids.smarts
+O=C=O is a starting material
+O=C=O.[#6]CC[Mg]Br>>[#6]CCC(O)=O via Grignard_addition_to_carbonyl.smarts
+[#6]CBr.[Mg]>>[#6]C[Mg]Br via Grignard_reagent_formation.smarts
+[#6]CCBr.[Mg]>>[#6]CC[Mg]Br via Grignard_reagent_formation.smarts
+[#6]CCC(Cl)=O is the goal
+[#6]CO is a starting material
+[Mg] is a starting material
+[Mg] is a starting material

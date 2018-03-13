@@ -1,0 +1,12 @@
+We synthesized!
+BrP(Br)Br is a starting material
+BrP(Br)Br.[#6]C([#6])O>>[#6]C([#6])Br via Alkyl_bromide_with_PBr3.smarts
+[#6]C([#6])=O.[#6]C([#6])Br.[Li+]N(C([#6])[#6])C([#6])[#6]>>[#6]C([#6])CC([#6])=O via Enolate_SN2_attack_on_alkyl_bromide.smarts
+[#6]C([#6])CC([#6])=O.[Li+][#13;v4-]>>[#6]C([#6])CC([#6])O via LiAlH4_reduction_of_ketone.smarts
+[#6]C([#6])CC([#6])O is the goal
+[#6]C([#6])O is a starting material
+[#6]C([#6])O is a starting material
+[#6]C([#6])O.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]C([#6])=O via Oxidation_of_alcohols_with_PCC.smarts
+[Li+]N(C([#6])[#6])C([#6])[#6] is a starting material
+[Li+][#13;v4-] is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material

@@ -1,0 +1,14 @@
+We synthesized!
+BrCCCCCBr is a starting material
+BrCCCCCBr.CCOC(=O)CC(=O)C.[Li+]N(C([#6])[#6])C([#6])[#6]>>[#6]COC(=O)C(CCCCCCBr)C([#6])=O via Enolate_SN2_attack_on_alkyl_bromide.smarts
+O[Na] is a starting material
+O[Na].[#6]COC(=O)C1(CCCCC1)C([#6])=O.[#8]>>[#6]C(=O)C1CCCCC1 via Decarboxylation_of_beta_keto_esters.smarts
+[#6]C(=O)C1CCCCC1 is the goal
+[#6]COC(=O)C(CCCCCBr)C([#6])=O.[Li+]N(C([#6])[#6])C([#6])[#6]>>[#6]COC(=O)C1(CCCCC1)C([#6])=O via intramolecular_Enolate_SN2_attack_on_alkyl_bromide.smarts
+[#6]COC([#6])=O is a starting material
+[#6]COC([#6])=O is a starting material
+[#6]COC([#6])=O.[#6]COC([#6])=O.[#6]O[Na]>>CCOC(=O)CC(=O)C via Claisen_condensation_with_ethyl_esters.smarts
+[#6]O[Na] is a starting material
+[#8] is a starting material
+[Li+]N(C([#6])[#6])C([#6])[#6] is a starting material
+[Li+]N(C([#6])[#6])C([#6])[#6] is a starting material

@@ -1,0 +1,13 @@
+We synthesized!
+Cl[H] is a starting material
+Cl[H].[#6]OC1=CC(O[#6])=C([#7])C(O[#6])=C1[#7].[O-][N+]([Na+])=O>>[#6]OC1=CC(O[#6])=C([N+]#N)C(O[#6])=C1[N+]#N via Diazotization.smarts
+OS(O)(=O)=O is a starting material
+OS(O)(=O)=O.O[N+]([O-])=O.[#6]OC1=CC(O[#6])=CC(O[#6])=C1>>[#6]OC1=CC(O[#6])=C(C(O[#6])=C1[N+]([O-])=O)[N+]([O-])=O via Aromatic_nitration.smarts
+O[N+]([O-])=O is a starting material
+[#6]OC1=CC(O[#6])=C(Br)C(O[#6])=C1Br is the goal
+[#6]OC1=CC(O[#6])=C(C(O[#6])=C1[N+]([O-])=O)[N+]([O-])=O.[H][H]>>[#6]OC1=CC(O[#6])=C([#7])C(O[#6])=C1[#7] via Catalytic_hydrogenation_of_nitro_group.smarts
+[#6]OC1=CC(O[#6])=C([N+]#N)C(O[#6])=C1[N+]#N.[Cu]Br>>[#6]OC1=CC(O[#6])=C(Br)C(O[#6])=C1Br via Sandmeyer_with_cuprous_halide.smarts
+[#6]OC1=CC(O[#6])=CC(O[#6])=C1 is a starting material
+[Cu]Br is a starting material
+[H][H] is a starting material
+[O-][N+]([Na+])=O is a starting material

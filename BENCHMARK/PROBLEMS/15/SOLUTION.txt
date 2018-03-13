@@ -1,0 +1,23 @@
+We synthesized!
+BrP(Br)Br is a starting material
+BrP(Br)Br is a starting material
+BrP(Br)Br.[#6]CO>>[#6]CBr via Alkyl_bromide_with_PBr3.smarts
+BrP(Br)Br.[#6]O>>[#6]Br via Alkyl_bromide_with_PBr3.smarts
+[#6]Br.[Na]C#N>>[#6]C#N via Cyanide_formation_from_alkyl_bromide.smarts
+[#6]C#N>>[#6]C[#7] via Nitrile_reduction_to_amine.smarts
+[#6]C=O.[#6]C[Mg]Br>>[#6]CC([#6])O via Grignard_addition_to_carbonyl.smarts
+[#6]CBr.[Mg]>>[#6]C[Mg]Br via Grignard_reagent_formation.smarts
+[#6]CC([#6])=O.[#6]C[#7]>>[#6]CN=C([#6])C[#6] via Imine_formation.smarts
+[#6]CC([#6])O.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]CC([#6])=O via Oxidation_of_alcohols_with_PCC.smarts
+[#6]CN=C([#6])C[#6].[#8].[Li+][#13;v4-]>>[#6]CNC([#6])C[#6] via Imine_reduction_to_amine.smarts
+[#6]CNC([#6])C[#6] is the goal
+[#6]CO is a starting material
+[#6]CO is a starting material
+[#6]CO.[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1>>[#6]C=O via Oxidation_of_alcohols_with_PCC.smarts
+[#6]O is a starting material
+[#8] is a starting material
+[Li+][#13;v4-] is a starting material
+[Mg] is a starting material
+[Na]C#N is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material
+[O-][Cr](=O)(=O)[Cl][N+]1=CC=CC=C1 is a starting material

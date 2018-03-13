@@ -1,0 +1,25 @@
+We synthesized!
+BrC1CCCCC1.[Mg]>>Br[Mg]C1CCCCC1 via Grignard_reagent_formation.smarts
+BrP(Br)Br is a starting material
+BrP(Br)Br is a starting material
+BrP(Br)Br is a starting material
+BrP(Br)Br.OC1CCCCC1>>BrC1CCCCC1 via Alkyl_bromide_with_PBr3.smarts
+BrP(Br)Br.[#6]O>>[#6]Br via Alkyl_bromide_with_PBr3.smarts
+BrP(Br)Br.[#6]O>>[#6]Br via Alkyl_bromide_with_PBr3.smarts
+Br[Mg]C1CCCCC1.O=C=O>>OC(=O)C1CCCCC1 via Grignard_addition_to_carbonyl.smarts
+C1CCC=CC1 is a starting material
+C1CCC=CC1.OS(O)(=O)=O.[#8]>>OC1CCCCC1 via Alcohol_from_alkene.smarts
+ClC(=O)C1CCCCC1.[#6][Mg]Br>>[#6]C(=O)C1CCCCC1 via Grignard_addition_to_acid_chloride.smarts
+ClS(Cl)=O is a starting material
+ClS(Cl)=O.OC(=O)C1CCCCC1>>ClC(=O)C1CCCCC1 via Acid_chlorides_from_carboxylic_acids.smarts
+O=C=O is a starting material
+OS(O)(=O)=O is a starting material
+[#6]Br.[Mg]>>[#6][Mg]Br via Grignard_reagent_formation.smarts
+[#6]Br.[Mg]>>[#6][Mg]Br via Grignard_reagent_formation.smarts
+[#6]C(=O)C1CCCCC1.[#6][Mg]Br>>[#6]C([#6])(O)C1CCCCC1 via Grignard_addition_to_carbonyl.smarts
+[#6]C([#6])(O)C1CCCCC1 is the goal
+[#6]O is a starting material
+[#8] is a starting material
+[Mg] is a starting material
+[Mg] is a starting material
+[Mg] is a starting material

@@ -1,0 +1,10 @@
+Massachusetts Institute of Technology
+5.13: Organic Chemistry II
+Practice exam #4, Fall 2006
+Question 4
+
+The lithium enolate is misdrawn in the PDF solution: the double bond should go to one of the carbons.
+
+Our solution uses OH- to create the enolate rather than make lithium enolate as in the PDF solution.
+
+Distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license: http://creativecommons.org/licenses/by-nc-sa/3.0/us/

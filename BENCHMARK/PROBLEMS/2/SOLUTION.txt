@@ -1,0 +1,14 @@
+We synthesized!
+Cl[H] is a starting material
+Cl[H].[#6]C(=O)C1=CC=CC([#7])=C1.[O-][N+]([Na+])=O>>[#6]C(=O)C1=CC=CC(=C1)[N+]#N via Diazotization.smarts
+OS(O)(=O)=O is a starting material
+OS(O)(=O)=O is a starting material
+OS(O)(=O)=O.O[N+]([O-])=O.[#6]C(=O)C1=CC=CC=C1>>[#6]C(=O)C1=CC=CC(=C1)[N+]([O-])=O via Aromatic_nitration.smarts
+OS(O)(=O)=O.[#6]C(=O)C1=CC=CC(=C1)[N+]#N.[#8]>>[#6]C(=O)C1=CC=CC(O)=C1 via Dediazoniation_to_hydroxy.smarts
+O[N+]([O-])=O is a starting material
+[#6]C(=O)C1=CC=CC(=C1)[N+]([O-])=O.[H][H]>>[#6]C(=O)C1=CC=CC([#7])=C1 via Catalytic_hydrogenation_of_nitro_group.smarts
+[#6]C(=O)C1=CC=CC(O)=C1 is the goal
+[#6]C(=O)C1=CC=CC=C1 is a starting material
+[#8] is a starting material
+[H][H] is a starting material
+[O-][N+]([Na+])=O is a starting material

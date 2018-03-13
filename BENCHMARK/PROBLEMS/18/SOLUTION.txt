@@ -1,0 +1,15 @@
+We synthesized!
+(O=CC1C(COCC2=CC=CC=C2)C(C=O)C2C1C(=O)OC2=O.[Li+][#13;v4-]>>(OCC1C(COCC2=CC=CC=C2)C(CO)C2C1C(=O)OC2=O via LiAlH4_reduction_of_aldehydes.smarts
+(OCC1C(COCC2=CC=CC=C2)C(CO)C2C1C(=O)OC2=O.[Li+][#13;v4-]>>OCC1C(CO)C(CO)C(COCC2=CC=CC=C2)C1CO) via Cyclic_anhydride_reduction.smarts
+(OOO) is a starting material
+(OOO).([#6]S[#6]).O=C1OC(=O)C2C3C=CC(C3COCC3=CC=CC=C3)C12>>(O=CC1C(COCC2=CC=CC=C2)C(C=O)C2C1C(=O)OC2=O via Ozonolysis_with_reductive_workup_on_cyclic_systems.smarts
+([#6]S[#6]) is a starting material
+BrCC1=CC=CC=C1 is a starting material
+BrCC1=CC=CC=C1.OCC1C(CO)C(CO)C(COCC2=CC=CC=C2)C1CO).[H-].[Na+]>>C(OCC1=CC=CC=C1)C1C(COCC2=CC=CC=C2)C(COCC2=CC=CC=C2)C(COCC2=CC=CC=C2)C1COCC1=CC=CC=C1 via Williamson_Ether_Synthesis.smarts
+C(OCC1=CC=CC=C1)C1C(COCC2=CC=CC=C2)C(COCC2=CC=CC=C2)C(COCC2=CC=CC=C2)C1COCC1=CC=CC=C1 is the goal
+C(OCC1=CC=CC=C1)C1C=CC=C1 is a starting material
+C(OCC1=CC=CC=C1)C1C=CC=C1.O=C1OC(=O)C=C1>>O=C1OC(=O)C2C3C=CC(C3COCC3=CC=CC=C3)C12 via Diels-Alder_cycloaddition_0.mrv
+O=C1OC(=O)C=C1 is a starting material
+[H-].[Na+] is a starting material
+[Li+][#13;v4-] is a starting material
+[Li+][#13;v4-] is a starting material

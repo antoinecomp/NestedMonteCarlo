@@ -1,0 +1,13 @@
+We synthesized!
+O[Na] is a starting material
+O[Na] is a starting material
+O[Na].[#6]C([#6])=O.[#6]COC(=O)CC(=O)OC[#6]>>[#6]COC(=O)C(=C([#6])[#6])C(=O)OC[#6] via Aldol_condensation_with_ketone_and_base.smarts
+O[Na].[#6]COC(=O)C1C(=O)CC(=O)CC1([#6])[#6].[#8]>>[#6]C1([#6])CC(=O)CC(=O)C1 via Decarboxylation_of_beta_keto_ethyl_esters.smarts
+[#6]C([#6])=O is a starting material
+[#6]C([#6])=O is a starting material
+[#6]C([#6])=O.[#6]COC(=O)C(=C([#6])[#6])C(=O)OC[#6]>>[#6]COC(=O)C(C(=O)OC[#6])C([#6])([#6])CC([#6])=O via Michael_addition_with_ketone.smarts
+[#6]C1([#6])CC(=O)CC(=O)C1 is the goal
+[#6]COC(=O)C(C(=O)OC[#6])C([#6])([#6])CC([#6])=O.[#6]O[Na]>>[#6]COC(=O)C1C(=O)CC(=O)CC1([#6])[#6] via Dieckmann_condensation_with_ketone.smarts
+[#6]COC(=O)CC(=O)OC[#6] is a starting material
+[#6]O[Na] is a starting material
+[#8] is a starting material

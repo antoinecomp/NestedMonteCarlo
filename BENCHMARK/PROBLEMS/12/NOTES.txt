@@ -1,0 +1,12 @@
+Massachusetts Institute of Technology
+5.13: Organic Chemistry II
+Hour exam #3, Spring 2001
+Question 5
+
+While the instructions require starting materials to contain fewer than 3 carbon atoms, the course solution uses pentadiene, which contains 5 carbons so we provide pentadiene as a starting material. 
+
+PhMgBr can be made from PhBr, which is made by electrophilic aromatic substitution on benzene (a permitted starting material).
+
+Our solution performs Grignard addition to an acid chloride rather than an ester.
+
+Distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license: http://creativecommons.org/licenses/by-nc-sa/3.0/us/

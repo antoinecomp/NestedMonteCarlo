@@ -1,0 +1,26 @@
+We synthesized!
+BrBr is a starting material
+BrBr is a starting material
+BrBr.Br[Fe](Br)Br.C1=CC=CC=C1>>BrC1=CC=CC=C1 via Bromination_of_benzene.smarts
+BrBr.Br[Fe](Br)Br.C1=CC=CC=C1>>BrC1=CC=CC=C1 via Bromination_of_benzene.smarts
+BrC1=CC=CC=C1.[Mg]>>Br[Mg]C1=CC=CC=C1 via Grignard_reagent_formation.smarts
+BrC1=CC=CC=C1.[Mg]>>Br[Mg]C1=CC=CC=C1 via Grignard_reagent_formation.smarts
+Br[Fe](Br)Br is a starting material
+Br[Fe](Br)Br is a starting material
+Br[Mg]C1=CC=CC=C1.[#6]C1CCCC([#6])C1C(=O)C1=CC=CC=C1>>[#6]C1CCCC([#6])C1C(O)(C1=CC=CC=C1)C1=CC=CC=C1 via Grignard_addition_to_carbonyl.smarts
+Br[Mg]C1=CC=CC=C1.[#6]C1CCCC([#6])C1C(Cl)=O>>[#6]C1CCCC([#6])C1C(=O)C1=CC=CC=C1 via Grignard_addition_to_acid_chloride.smarts
+C1=CC=CC=C1 is a starting material
+C1=CC=CC=C1 is a starting material
+ClS(Cl)=O is a starting material
+ClS(Cl)=O.[#6]C1CCCC([#6])C1C(O)=O>>[#6]C1CCCC([#6])C1C(Cl)=O via Acid_chlorides_from_carboxylic_acids.smarts
+O[Cr](=O)(=O)O[Cr](O)(=O)=O is a starting material
+O[Cr](=O)(=O)O[Cr](O)(=O)=O.[#6]C1CCCC([#6])C1C=O.[#8]>>[#6]C1CCCC([#6])C1C(O)=O via Oxidation_of_aldehydes_to_carboxylic_acids.smarts
+[#6]C1CC=CC([#6])C1C=O.[H][H]>>[#6]C1CCCC([#6])C1C=O via Palladium_catalyst_hydrogenation_of_alkene.smarts
+[#6]C1CCCC([#6])C1C(O)(C1=CC=CC=C1)C1=CC=CC=C1 is the goal
+[#6]C=CC=C is a starting material
+[#6]C=CC=C.[#6]C=CC=O>>[#6]C1CC=CC([#6])C1C=O via Diels-Alder_cycloaddition_0.mrv
+[#6]C=CC=O is a starting material
+[#8] is a starting material
+[H][H] is a starting material
+[Mg] is a starting material
+[Mg] is a starting material

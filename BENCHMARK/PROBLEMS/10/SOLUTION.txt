@@ -1,0 +1,9 @@
+We synthesized!
+O=C1OC(=O)C=C1 is a starting material
+O=C1OC(=O)C=C1.[#6]C=CC([#6])=C>>[#6]C1C=C([#6])CC2C1C(=O)OC2=O via Diels-Alder_cycloaddition_0.mrv
+[#6]C(=O)O[Hg]OC([#6])=O is a starting material
+[#6]C(=O)O[Hg]OC([#6])=O.[#6]C1C=C([#6])CC(CO)C1CO>>[#6]C1CC2([#6])CC(CO2)C1CO via intramolecular_Oxymercuration-reduction.smarts
+[#6]C1C=C([#6])CC2C1C(=O)OC2=O.[Li+][#13;v4-]>>[#6]C1C=C([#6])CC(CO)C1CO via Cyclic_anhydride_reduction.smarts
+[#6]C1CC2([#6])CC(CO2)C1CO is the goal
+[#6]C=CC([#6])=C is a starting material
+[Li+][#13;v4-] is a starting material

@@ -1,0 +1,8 @@
+Massachusetts Institute of Technology
+5.13: Organic Chemistry II
+Exam #3 extra problems, Fall 2006
+Question 5b
+
+The MeMgBr used in the final step of the solution can be created from MeOH starting material by PBr3 followed by Mg (analogous to the second conversion in the solution).  However, it is used without construction so, if you want to provide it to your solver, it described in SML/hidden/methyl-Grignard.smiles.
+
+Distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
